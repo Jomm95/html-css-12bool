@@ -1,0 +1,22 @@
+.container-fluid {
+    margin-bottom:20px;
+    min-height:300px;
+}
+
+.row {
+    min-height:50px;
+}
+
+.row .row .box {
+    background-color: rgb(60, 201, 60);
+}
+
+.box {
+    min-height:50px;
+    padding:17px;
+    text-align: center;
+    border:1px solid white;
+    background-color: blue;
+    color:white;
+    font-size:10px;
+}
